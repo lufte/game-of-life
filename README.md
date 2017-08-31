@@ -17,3 +17,4 @@
 
 1. Load the initial state from a file.
 2. Run without `iex`.
+3. Hide the cursor.
