@@ -1,0 +1,2 @@
+%{"elixir_make": {:hex, :elixir_make, "0.4.0", "992f38fabe705bb45821a728f20914c554b276838433349d4f2341f7a687cddf", [], [], "hexpm"},
+  "ex_ncurses": {:git, "https://github.com/jfreeze/ex_ncurses.git", "2fd3ecb1c8a1c5e04ddb496bb8d57f30b619f59e", []}}
